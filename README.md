@@ -4,7 +4,7 @@
 ---
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-white.svg?style=for-the-badge&logo=html5&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-white.svg?style=for-the-badge&logo=css3&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-white.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-white.svg?style=for-the-badge&logo=react&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-white.svg?style=for-the-badge&logo=tailwind-css&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-white.svg?style=for-the-badge&logo=bootstrap&logoColor=black) ![GitHub](https://img.shields.io/badge/github-white.svg?style=for-the-badge&logo=github&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-white.svg?style=for-the-badge&logo=css3&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-white.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-white.svg?style=for-the-badge&logo=react&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-white.svg?style=for-the-badge&logo=tailwind-css&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-white.svg?style=for-the-badge&logo=bootstrap&logoColor=black) ![GitHub](https://img.shields.io/badge/github-white.svg?style=for-the-badge&logo=github&logoColor=black)
 
 ---
 
