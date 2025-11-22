@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 About Me<br><br>I’m Hadi, a 17-year-old front-end developer from Iran with a strong passion for building modern, responsive, and high-performance web applications. I specialize in creating clean user interfaces and seamless user experiences using technologies such as HTML, CSS, JavaScript, React, and Next.js.<br><br>I’m highly motivated to grow in the field of web development, continuously learn new tools and frameworks, and improve both my technical and creative skills. My goal is to become a world-class developer who can build real, scalable products and contribute to impactful projects.<br><br>Beyond coding, I’m always exploring new ideas, sharpening my problem-solving abilities, and staying up-to-date with the latest trends in the frontend ecosystem.
 
 ---
