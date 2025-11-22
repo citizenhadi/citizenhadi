@@ -8,11 +8,6 @@
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%000000.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hadikarimi2008) 
-
----
-
 ## 🌐 Website
 Visit my personal website: [www.hadikarimi2008.ir](https://www.hadikarimi2008.ir)
 
