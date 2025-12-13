@@ -9,7 +9,7 @@
 ---
 
 ## 📄 Identity and Detailed Skills
-**For a full and in-depth view of my technical skills, experience breakdown, and professional identity, please refer to my official documentation:** **[View Full Technical Identity (citizenhadi-identity.md)](./citizenhadi-identity.md)**
+**For a full and in-depth view of my technical skills, experience breakdown, and professional identity, please refer to my official documentation:** **[View Full Technical Identity (citizenhadi-identity.md)](./citizenhadi-identity)**
 
 ---
 
