@@ -13,5 +13,10 @@
 
 ---
 
+## 🎓 Certifications & Credentials
+**View verifiable documentation of my professional certifications and courses:** **[View All Certificates Here](https://certificates-zeta.vercel.app/)**
+
+---
+
 ## 🌐 Website
 Visit my personal website: [www.hadikarimi2008.ir](https://www.hadikarimi2008.ir)
